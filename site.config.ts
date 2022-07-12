@@ -51,14 +51,15 @@ export default siteConfig({
   // important pages
   navigationStyle: 'default'
   // navigationStyle: 'custom',
-  // navigationLinks: [
-  //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
-  //   },
-  //   {
-  //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-  //   }
-  // ]
+  navigationLinks: [
+    {
+      title: 'About',
+      pageId: '21a2c73f1b6b432eb4ab761fb86bece2'
+    }
+//                           ,
+//     {
+//       title: 'Contact',
+//       pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+//     }
+  ]
 })
