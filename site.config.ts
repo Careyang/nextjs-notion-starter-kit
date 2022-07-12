@@ -20,7 +20,6 @@ export default siteConfig({
   twitter: '',
   github: 'transitive-bullshit',
   linkedin: 'fisch2',
-  QQ:'554279679',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
