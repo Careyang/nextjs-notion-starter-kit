@@ -33,7 +33,7 @@ export const FooterImpl: React.FC = () => {
 
   return (
     <footer className={styles.footer}>
-      <div className={styles.copyright}>Copyright 2022 <a href="http://beian.miit.gov.cn">京ICP备20004442号-1</a> {config.author}</div>
+      <div className={styles.copyright}>Copyright 2022 {config.author}  <a href="http://beian.miit.gov.cn">京ICP备20004442号-1</a> </div>
 
       <div className={styles.settings}>
         {hasMounted && (
